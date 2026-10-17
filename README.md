@@ -1,5 +1,5 @@
-# Google Cybersecurity Professional Portfolio
-Welcome! This repository showcases the hands-on technical labs, incident reports, and security automation scripts I completed while earning my Google Cybersecurity Certificate under the Tech Valley / Innovista scholarship.
+# Cybersecurity & IT Enterprise Support Portfolio
+Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, enterprise IT configurations, and virtual simulations, built following my Google dual-certifications through the Tech Valley / Innovista scholarship.
 
 ## 📁 Portfolio Projects & Labs
 
