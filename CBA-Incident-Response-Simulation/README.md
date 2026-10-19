@@ -37,7 +37,7 @@ To mitigate future credential harvesting and social engineering risks identified
 - **Enterprise Password Management:** Promoting approved password managers over reused or written-down passwords.
 
 ### 📄 Deliverable View
-- **[View Password Security Infographic PDF](./Password Security Infographic.pdf)**
+- **[View Password Security Infographic PDF](./Password_Security_Infographic.pdf)**
 
 ---
 
