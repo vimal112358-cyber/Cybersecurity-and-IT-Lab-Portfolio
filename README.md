@@ -5,7 +5,7 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 1. Security Documentation & Incident Response
 - **[Google NIST CSF Incident Response Playbook](./Incident_Report_Analysis.pdf):** End-to-end incident response playbook and post-incident analysis detailing containment, eradication, and remediation strategies mapped to the NIST CSF framework (Google Cybersecurity Certificate).
-- **Vulnerability Assessment:** A structured risk analysis identifying internal system vulnerabilities for a small business layout.
+- **[Vulnerability Assessment](./Vulnerability_Assessment_Report.pdf):** A structured risk analysis identifying internal system vulnerabilities for a small business layout.
 
 2. Security Automation with Python
  **[Python Security Automation Script](./file_automation.ipynb):** An interactive Jupyter Notebook automating access control lists (ACLs) by parsing corporate IP files to update security allow-lists.
