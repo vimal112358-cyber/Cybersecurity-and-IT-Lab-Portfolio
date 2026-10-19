@@ -1,5 +1,4 @@
-
-# 🚨 Commonwealth Bank Incident Response: Spear-Phishing & Malware Outbreak
+# 🚨 Commonwealth Bank Security Simulation: Incident Response & Awareness
 **Virtual Internship Project | Commonwealth Bank (via Forage)**
 
 ## 📌 Incident Scenario Overview
@@ -10,27 +9,35 @@ In this simulated enterprise security incident, an attacker executed a targeted 
 * **Threat Vectors:** Spear-Phishing, Social Engineering, Credential Theft, Malware / Ransomware Propagation
 * **Key Artifacts:** Indicators of Compromise (IoCs), Compromised Account Credentials, Spoofed Domains
 
-## 🔍 Incident Timeline & Triage
+---
+
+## 🔍 Tasks 1 & 2: Incident Timeline, Triage & Containment
+
+### Incident Timeline
 * **10:30 AM — Initial Alert:** An employee reported a suspicious HR timesheet link that threw a server error after credential entry.
 * **2:00 PM — Scope Expansion:** Investigation confirmed 62 Risk Department colleagues received the email, directing them to a fake site that harvested credentials and downloaded a harmful program.
 * **3:50 PM — Critical Impact:** Network file-shares became inaccessible and Word documents threw opening errors, signaling active malware propagation and file encryption.
 
-## 🛡️ Strategic Containment & Recovery Plan
+### Strategic Containment & Recovery Plan
+1. **Endpoint & Network Isolation:** Disconnected infected workstations and temporarily severed network file-shares to halt lateral malware movement.
+2. **Credential Revocation:** Disabled accounts, revoked active tokens, and forced password resets for all 62 targeted employees.
+3. **Gateway Filtering:** Blacklisted malicious domains, IP addresses, and file hashes across firewalls and email gateways.
+4. **Data Restoration:** Scanned endpoints with EDR tools and restored corrupted files from clean, offline backups.
 
-### 1. Containment Actions
-* **Endpoint Isolation:** Disconnected infected workstations from the internal network to prevent lateral movement.
-* **File-Share Severing:** Temporarily took affected network file-shares offline to arrest further malware file encryption.
-* **Credential Revocation:** Immediately disabled user accounts, revoked active session tokens, and forced password resets for all 62 targeted employees.
-* **Gateway Filtering:** Blacklisted malicious domains, IP addresses, and file hashes across firewalls and email security gateways.
+---
 
-### 2. Eradication & Recovery
-* **Endpoint Remediation:** Scanned and purged malware using Endpoint Detection & Response (EDR) tools, reimaging severely compromised systems.
-* **Clean Data Restoration:** Restored corrupted files on network shares from clean, verified offline backups.
-* **Access Restoration:** Enforced Multi-Factor Authentication (MFA) prior to restoring user network permissions.
+## 🎨 Task 3: Security Awareness & Password Policy Infographic
 
-### 3. Post-Incident & Lessons Learned
-* **Root Cause Analysis (RCA):** Conducted a deep dive into email gateway policies to patch filtering gaps.
-* **Security Awareness:** Scheduled targeted phishing simulations and anti-phishing awareness sessions for high-risk corporate departments.
+### 📌 Overview
+To mitigate future credential harvesting and social engineering risks identified during the incident, I designed an enterprise security awareness infographic based on **Australian Cyber Security Centre (ACSC)** guidelines for bank employees.
+
+### 🔑 Key Concepts Covered
+- **Passphrase Strategy:** Transitioning from complex short passwords to 4+ random word passphrases (e.g., `purple-koala-laptop-sunset!`).
+- **Multi-Factor Authentication (MFA):** Highlighting MFA as a critical secondary defense against stolen credentials.
+- **Enterprise Password Management:** Promoting approved password managers over reused or written-down passwords.
+
+### 📄 Deliverable View
+- **[View Password Security Infographic PDF](./Password_Security_Infographic.pdf)**
 
 ---
 
