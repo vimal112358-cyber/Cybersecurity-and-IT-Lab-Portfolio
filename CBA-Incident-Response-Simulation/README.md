@@ -35,5 +35,5 @@ In this simulated enterprise security incident, an attacker executed a targeted 
 ---
 
 ### 📬 Contact
-* **LinkedIn:** [vimal-k-0765783a4](https://linkedin.com/in/vimal-k-0765783a4)[cite: 1]
-* **Email:** vimal.112358@gmail.com[cite: 1]
+* **LinkedIn:** [vimal-k-0765783a4](https://linkedin.com/in/vimal-k-0765783a4)
+* **Email:** vimal.112358@gmail.com
