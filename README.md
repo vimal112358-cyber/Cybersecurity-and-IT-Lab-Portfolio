@@ -15,7 +15,7 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 4. SIEM & Virtual Simulations
 - **[Splunk Fraud Analysis & Analytics](./Splunk-Fraud-Detection-Commonwealth-Bank):** Ingested and queried financial datasets in Splunk Enterprise using SPL to identify transaction anomalies and build visual threat detection dashboards (Commonwealth Bank Simulation).
-- **Commonwealth Bank Incident Response Simulation:** Simulated a live multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols (Forage Virtual Simulation).
+- **[Commonwealth Bank Incident Response Simulation](./CBA-Incident-Response-Simulation):** Simulated a live multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols (Forage Virtual Simulation).
 
 🛠️ Tech Stack & Tools Mastered
 - Operating Systems: Linux (Ubuntu/Debian CLI)
