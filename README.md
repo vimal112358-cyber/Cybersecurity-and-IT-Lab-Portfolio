@@ -1,6 +1,11 @@
 # Cybersecurity & IT Enterprise Support Portfolio
 Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, enterprise IT configurations, and virtual simulations, built following my Google dual-certifications through the Tech Valley / Innovista scholarship.
 
+## 🏆 Professional Certificates & Credentials
+* **Google Cybersecurity Professional Certificate** — *Tech Valley / Innovista Scholarship* | 📄 [View Certificate](./certificates/Google_Cybersecurity.pdf)
+* **Google IT Support Professional Certificate** — *Tech Valley / Innovista Scholarship* | 📄 [View Certificate](./certificates/Google_IT_Support.pdf)
+* **Commonwealth Bank of Australia (CBA) Cyber Simulation** — *Forage* | 📄 [View Certificate](./certificates/Forage_Intro_To_Cybersecurity.pdf)
+  
 📁 Portfolio Projects & Labs
 
 1. Security Documentation & Incident Response
