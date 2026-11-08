@@ -1,12 +1,17 @@
 # Cybersecurity & IT Enterprise Support Portfolio
 
-Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, enterprise IT configurations, and virtual simulations, built following my Google dual-certifications through the Tech Valley / Innovista scholarship.
+Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, enterprise IT configurations, and virtual simulations.
+
+---
 
 ## 🏆 Professional Certificates & Credentials
-- **Google Cybersecurity Professional Certificate** — *Tech Valley / Innovista Scholarship* | 📄 [View Certificate](./certificates/Google_Cybersecurity.pdf)
-- **Google IT Support Professional Certificate** — *Tech Valley / Innovista Scholarship* | 📄 [View Certificate](./certificates/Google_IT_Support.pdf)
-- **Commonwealth Bank of Australia (CBA) Cyber Simulation** — *Forage* | 📄 [View Certificate](./certificates/Forage_Intro_To_Cybersecurity.pdf)
-  
+
+- **Google Cybersecurity Professional Certificate** — Tech Valley / Innovista Scholarship
+- **Google IT Support Professional Certificate** — Tech Valley / Innovista Scholarship
+- **Commonwealth Bank of Australia (CBA) Cyber Simulation** — Forage
+
+---
+
 ## 📁 Portfolio Projects & Labs
 
 ### 1. Security Documentation & Incident Response
@@ -28,8 +33,12 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 - **[Commonwealth Bank Incident Response Simulation](./CBA-Incident-Response-Simulation):** Simulated a live multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols.
 - **[Commonwealth Bank Web Application Penetration Testing](./reports/CBA_Penetration_Testing_Executive_Report.pdf):** Completed 11 targeted browser-based security labs covering XSS, SQL Injection, Path Traversal, and Information Disclosure, accompanied by an executive penetration testing report.
 
+---
+
 ## 🛠️ Tech Stack & Tools Mastered
+
 - **Operating Systems:** Linux (Ubuntu/Debian CLI)
-- **Development & Analytics:** Python 3 (Jupyter), SQL
-- **Security Frameworks:** NIST CSF
-- **Defensive Concepts:** SIEM logging, Network traffic analysis, Access Control Lists (ACLs)
+- **Development & Analytics:** Python 3 (Jupyter Notebooks), SQL
+- **Version Control & Collaboration:** Git, GitHub, Pull Request Workflows
+- **Security Frameworks:** NIST Cybersecurity Framework (CSF)
+- **Defensive & Operations Concepts:** SIEM Logging (Splunk), Network Traffic Analysis, Access Control Lists (ACLs), Root-Cause Troubleshooting
