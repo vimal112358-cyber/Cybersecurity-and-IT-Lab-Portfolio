@@ -1,13 +1,20 @@
-# 🐍 Linux System Log Parser & Security Metrics Generator
+# 🐍 Automated Syslog Parser & Security Metrics Generator
 
 ## 📌 Description
-An automated Python log-parsing tool that processes unstructured Linux system logs (`syslog`), extracts error events and user activities using Regular Expressions, aggregates frequency data using nested dictionaries, and exports structured CSV reports for system auditing and security monitoring.
+An automated, fault-tolerant Python CLI tool that processes unstructured Linux system logs (`syslog`), extracts error events and severity metrics using Regular Expressions, and exports structured CSV reports for system auditing and security monitoring. Built with robust error handling and strict resource management principles.
 
 ## 🛠️ Key Capabilities
-- **Regex Extraction:** Utilizes Python's `re` module to parse error patterns and extract username attributes from system entries.
-- **Data Aggregation:** Tracks per-user statistics (`INFO` vs `ERROR`) and global error counts.
-- **CSV Output:** Formats processed data into sorted CSV files (`error_message.csv` and `user_statistics.csv`).
+- **Regex Pattern Matching:** Utilizes Python's `re` module with compiled regular expressions to extract timestamp, process, severity level, and log messages.
+- **Defensive Error Handling:** Gracefully catches `FileNotFoundError`, `PermissionError`, and unexpected exceptions without crashing.
+- **Resource Management:** Employs Python `with` context managers and line-by-line streaming (`enumerate`) to maintain a minimal memory footprint on large log files.
+- **CLI Flexibility:** Powered by `argparse` to accept dynamic input log paths and custom CSV output destinations.
+- **Zero External Dependencies:** Written entirely using the Python 3 Standard Library (`re`, `csv`, `argparse`, `collections`, `sys`).
 
 ## ⚙️ How to Run
+
+### 1. Basic Execution
+Run the script against a target log file using the `-i` (`--input`) flag:
 ```bash
-python3 ticky_check.py
+python3 syslog_parser.py -i sample_syslog.log
+python3 syslog_parser.py -i /var/log/syslog -o daily_security_metrics.csv
+python3 syslog_parser.py --help
