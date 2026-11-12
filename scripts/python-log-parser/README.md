@@ -12,9 +12,6 @@ An automated, fault-tolerant Python CLI tool that processes unstructured Linux s
 
 ## ⚙️ How to Run
 
-### 1. Basic Execution
-Run the script against a target log file using the `-i` (`--input`) flag:
-```bash
-python3 syslog_parser.py -i sample_syslog.log
-python3 syslog_parser.py -i /var/log/syslog -o daily_security_metrics.csv
-python3 syslog_parser.py --help
+- **Basic Execution:** `python3 syslog_parser.py -i sample_syslog.log`
+- **Custom Output Report:** `python3 syslog_parser.py -i /var/log/syslog -o daily_security_metrics.csv`
+- **View Help Menu:** `python3 syslog_parser.py --help`
