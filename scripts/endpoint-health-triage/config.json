@@ -1,1 +1,11 @@
-
+{
+  "cpu_threshold_percent": 80.0,
+  "ram_threshold_percent": 85.0,
+  "disk_threshold_percent": 90.0,
+  "max_failed_logins": 5,
+  "webhook_url": "https://httpbin.org/post",
+  "smtp_server": "smtp.example.com",
+  "smtp_port": 587,
+  "sender_email": "alerts@localdomain.internal",
+  "recipient_email": "admin@localdomain.internal"
+}
