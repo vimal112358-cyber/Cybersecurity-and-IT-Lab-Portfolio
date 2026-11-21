@@ -23,7 +23,7 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 ### 3. Security Automation & Log Parsing with Python
 - **[Automated Syslog Parser & Security Metrics](./scripts/python-log-parser/):** Python regex-based tool parsing raw Linux system logs to generate structured error frequency and user activity CSV reports.
-- **[IP Access Control List (ACL) Automation](./scripts/file_automation.ipynb):** An interactive Jupyter Notebook automating access control lists by parsing corporate IP files to update security allow-lists.
+- **[IP Allowlist & Security Log Automation](./scripts/acl-automation/):** Python CLI utility that safely appends missing login records, validates/deduplicates IPv4 allowlist entries, and outputs audit summaries.
 
 ### 4. Log Analysis & Data Querying with SQL
 - **[SQL Log Forensics & Querying](./sql_queries.txt):** A library of SQL scripts used to query organizational relational databases to identify anomalous login spikes, outside logins, and employee machine updates.
