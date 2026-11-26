@@ -6,11 +6,13 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 ## 🏆 Professional Certificates & Credentials
 
+*View uploaded completion certificates in [`./certificates/`](./certificates/).*
+
 - **Google Cybersecurity Professional Certificate** — Tech Valley / Innovista Scholarship
 - **Google IT Support Professional Certificate** — Tech Valley / Innovista Scholarship
-- **Google IT Automation with Python** — Coursera
-- **Google AI Essentials** — Coursera
+- **Google IT Automation with Python Professional Certificate** — Coursera
 - **Google Data Analytics Professional Certificate** — Coursera
+- **Google AI Essentials** — Coursera
 - **Commonwealth Bank of Australia (CBA) Cyber Simulation** — Forage
 
 ---
@@ -19,25 +21,25 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 ### 1. Security Documentation & Incident Response
 - **[Google NIST CSF Incident Response Playbook](./reports/Incident_Report_Analysis.pdf):** End-to-end incident response playbook and post-incident analysis detailing containment, eradication, and remediation strategies mapped to the NIST CSF framework.
-- **[Vulnerability Assessment](./reports/Vulnerability_Assessment_Report.pdf):** A structured risk analysis identifying internal system vulnerabilities for a small business layout.
+- **[Vulnerability Assessment](./reports/Vulnerability_Assessment_Report.pdf):** Structured risk analysis identifying internal system vulnerabilities for a small business network layout.
 
 ### 2. Version Control & Collaborative Engineering
 - **[Git & GitHub Version Control & Branching Lab](./git-workflow-lab/):** Hands-on lab documenting local repository management, feature branching strategies, merge conflict resolution, and collaborative Pull Request (PR) workflows.
 
 ### 3. Security Automation & Log Parsing with Python
 - **[Automated Syslog Parser & Security Metrics](./scripts/python-log-parser/):** Python regex-based tool parsing raw Linux system logs to generate structured error frequency and user activity CSV reports.
-- **[IP Allowlist & Security Log Automation](./scripts/acl-automation/):** Python CLI utility that safely appends missing login records, validates/deduplicates IPv4 allowlist entries, and outputs audit summaries.
+- **[IP Allowlist & Security Log Automation](./scripts/acl-automation/):** Python CLI utility that safely appends missing login records, validates and deduplicates IPv4 allowlist entries, and outputs audit summaries.
 
 ### 4. Log Analysis & Data Querying with SQL
-- **[SQL Log Forensics & Querying](./sql_queries.txt):** A library of SQL scripts used to query organizational relational databases to identify anomalous login spikes, outside logins, and employee machine updates.
+- **[SQL Log Forensics & Querying](./sql_queries.txt):** Library of SQL scripts used to query organizational relational databases to identify anomalous login spikes, off-hours logins, and employee workstation updates.
 
 ### 5. SIEM & Virtual Simulations
-- **[Splunk Fraud Analysis & Analytics](./Splunk-Fraud-Detection-Commonwealth-Bank):** Ingested and queried financial datasets in Splunk Enterprise using SPL to identify transaction anomalies and build visual threat detection dashboards.
-- **[Commonwealth Bank Incident Response Simulation](./CBA-Incident-Response-Simulation):** Simulated a live multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols.
+- **[Splunk Fraud Analysis & Analytics](./Splunk-Fraud-Detection-Commonwealth-Bank/):** Ingested and queried financial datasets in Splunk Enterprise using SPL to identify transaction anomalies and build visual threat detection dashboards.
+- **[Commonwealth Bank Incident Response Simulation](./CBA-Incident-Response-Simulation/):** Simulated a multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols.
 - **[Commonwealth Bank Web Application Penetration Testing](./reports/CBA_Penetration_Testing_Executive_Report.pdf):** Completed 11 targeted browser-based security labs covering XSS, SQL Injection, Path Traversal, and Information Disclosure, accompanied by an executive penetration testing report.
 
 ### 6. Data Analytics & SOC Operations Capstone
-- **[SOC Alert Triage & SLA Bottleneck Analysis](./soc-alert-triage-capstone/):** End-to-end Google Data Analytics Track B capstone analyzing 90 days of SOC alert telemetry across `alerts`, `assets`, and `analysts` tables using Python (`pandas`, `matplotlib`, `sqlite3`) and SQL—uncovering a **64.7%** false-positive rate (driven by `RULE-06` at **94.1%** and `RULE-02` at **86.3%**) and a **43.6%** SLA breach rate (**62.2%** on Night-shift `Tier 1 - Mission Critical` assets).
+- **[SOC Alert Triage & SLA Bottleneck Analysis](./soc-alert-triage-capstone/):** End-to-end capstone project for the Google Data Analytics Professional Certificate analyzing 90 days of SOC alert telemetry across `alerts`, `assets`, and `analysts` tables using Python (`pandas`, `matplotlib`, `sqlite3`) and SQL—uncovering a **64.7%** false-positive rate (led by `RULE-06` at **94.1%** and `RULE-02` at **86.3%**) and a **43.6%** SLA breach rate (**62.2%** on Night-shift `Tier 1 - Mission Critical` assets).
 
 ---
 
