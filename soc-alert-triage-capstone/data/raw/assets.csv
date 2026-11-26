@@ -1,0 +1,151 @@
+asset_id,hostname,department,criticality_tier,os_type
+AST-0001,exe-windows-001.corp.local,Executive,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0002,eng-windows-002.corp.local,Engineering,Tier 1 - Mission Critical,Windows Server 2022
+AST-0003,it_-macos-003.corp.local,IT_Infra,Tier 1 - Mission Critical,macOS Sequoia
+AST-0004,fin-ubuntu-004.corp.local,Finance,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0005,hr-ubuntu-005.corp.local,HR,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0006,it_-macos-006.corp.local,IT_Infra,Tier 2 - Internal Ops,macOS Sequoia
+AST-0007,exe-ubuntu-007.corp.local,Executive,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0008,it_-ubuntu-008.corp.local,IT_Infra,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0009,eng-windows-009.corp.local,Engineering,Tier 3 - Dev/Test,Windows Server 2022
+AST-0010,fin-windows-010.corp.local,Finance,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0011,exe-rhel-011.corp.local,Executive,Tier 3 - Dev/Test,RHEL 9
+AST-0012,fin-windows-012.corp.local,Finance,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0013,it_-rhel-013.corp.local,IT_Infra,Tier 3 - Dev/Test,RHEL 9
+AST-0014,eng-ubuntu-014.corp.local,Engineering,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0015,it_-windows-015.corp.local,IT_Infra,Tier 3 - Dev/Test,Windows Server 2022
+AST-0016,eng-windows-016.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0017,eng-windows-017.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0018,it_-ubuntu-018.corp.local,IT_Infra,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0019,hr-macos-019.corp.local,HR,Tier 2 - Internal Ops,macOS Sequoia
+AST-0020,eng-rhel-020.corp.local,Engineering,Tier 3 - Dev/Test,RHEL 9
+AST-0021,eng-windows-021.corp.local,Engineering,Tier 2 - Internal Ops,Windows Server 2022
+AST-0022,eng-windows-022.corp.local,Engineering,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0023,eng-rhel-023.corp.local,Engineering,Tier 1 - Mission Critical,RHEL 9
+AST-0024,sal-macos-024.corp.local,Sales_Ops,Tier 2 - Internal Ops,macOS Sequoia
+AST-0025,eng-macos-025.corp.local,Engineering,Tier 3 - Dev/Test,macOS Sequoia
+AST-0026,fin-rhel-026.corp.local,Finance,Tier 1 - Mission Critical,RHEL 9
+AST-0027,hr-macos-027.corp.local,HR,Tier 3 - Dev/Test,macOS Sequoia
+AST-0028,sal-ubuntu-028.corp.local,Sales_Ops,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0029,sal-macos-029.corp.local,Sales_Ops,Tier 1 - Mission Critical,macOS Sequoia
+AST-0030,fin-windows-030.corp.local,Finance,Tier 1 - Mission Critical,Windows Server 2022
+AST-0031,eng-macos-031.corp.local,Engineering,Tier 1 - Mission Critical,macOS Sequoia
+AST-0032,exe-rhel-032.corp.local,Executive,Tier 1 - Mission Critical,RHEL 9
+AST-0033,sal-rhel-033.corp.local,Sales_Ops,Tier 2 - Internal Ops,RHEL 9
+AST-0034,sal-windows-034.corp.local,Sales_Ops,Tier 1 - Mission Critical,Windows Server 2022
+AST-0035,it_-windows-035.corp.local,IT_Infra,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0036,it_-windows-036.corp.local,IT_Infra,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0037,eng-windows-037.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0038,sal-rhel-038.corp.local,Sales_Ops,Tier 3 - Dev/Test,RHEL 9
+AST-0039,sal-windows-039.corp.local,Sales_Ops,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0040,it_-ubuntu-040.corp.local,IT_Infra,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0041,eng-rhel-041.corp.local,Engineering,Tier 3 - Dev/Test,RHEL 9
+AST-0042,sal-windows-042.corp.local,Sales_Ops,Tier 3 - Dev/Test,Windows Server 2022
+AST-0043,exe-windows-043.corp.local,Executive,Tier 1 - Mission Critical,Windows Server 2022
+AST-0044,sal-windows-044.corp.local,Sales_Ops,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0045,eng-rhel-045.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0046,sal-macos-046.corp.local,Sales_Ops,Tier 1 - Mission Critical,macOS Sequoia
+AST-0047,it_-ubuntu-047.corp.local,IT_Infra,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0048,fin-rhel-048.corp.local,Finance,Tier 1 - Mission Critical,RHEL 9
+AST-0049,eng-rhel-049.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0050,eng-rhel-050.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0051,it_-macos-051.corp.local,IT_Infra,Tier 3 - Dev/Test,macOS Sequoia
+AST-0052,sal-macos-052.corp.local,Sales_Ops,Tier 2 - Internal Ops,macOS Sequoia
+AST-0053,sal-ubuntu-053.corp.local,Sales_Ops,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0054,eng-rhel-054.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0055,exe-windows-055.corp.local,Executive,Tier 1 - Mission Critical,Windows Server 2022
+AST-0056,eng-windows-056.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0057,fin-macos-057.corp.local,Finance,Tier 1 - Mission Critical,macOS Sequoia
+AST-0058,eng-rhel-058.corp.local,Engineering,Tier 1 - Mission Critical,RHEL 9
+AST-0059,exe-macos-059.corp.local,Executive,Tier 1 - Mission Critical,macOS Sequoia
+AST-0060,it_-windows-060.corp.local,IT_Infra,Tier 1 - Mission Critical,Windows Server 2022
+AST-0061,it_-macos-061.corp.local,IT_Infra,Tier 1 - Mission Critical,macOS Sequoia
+AST-0062,hr-windows-062.corp.local,HR,Tier 3 - Dev/Test,Windows Server 2022
+AST-0063,fin-windows-063.corp.local,Finance,Tier 3 - Dev/Test,Windows Server 2022
+AST-0064,eng-macos-064.corp.local,Engineering,Tier 1 - Mission Critical,macOS Sequoia
+AST-0065,fin-macos-065.corp.local,Finance,Tier 1 - Mission Critical,macOS Sequoia
+AST-0066,eng-macos-066.corp.local,Engineering,Tier 3 - Dev/Test,macOS Sequoia
+AST-0067,it_-rhel-067.corp.local,IT_Infra,Tier 1 - Mission Critical,RHEL 9
+AST-0068,it_-ubuntu-068.corp.local,IT_Infra,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0069,eng-ubuntu-069.corp.local,Engineering,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0070,sal-ubuntu-070.corp.local,Sales_Ops,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0071,eng-windows-071.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0072,sal-windows-072.corp.local,Sales_Ops,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0073,eng-rhel-073.corp.local,Engineering,Tier 3 - Dev/Test,RHEL 9
+AST-0074,it_-ubuntu-074.corp.local,IT_Infra,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0075,eng-rhel-075.corp.local,Engineering,Tier 3 - Dev/Test,RHEL 9
+AST-0076,it_-windows-076.corp.local,IT_Infra,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0077,fin-rhel-077.corp.local,Finance,Tier 2 - Internal Ops,RHEL 9
+AST-0078,eng-windows-078.corp.local,Engineering,Tier 3 - Dev/Test,Windows Server 2022
+AST-0079,sal-windows-079.corp.local,Sales_Ops,Tier 1 - Mission Critical,Windows Server 2022
+AST-0080,it_-windows-080.corp.local,IT_Infra,Tier 1 - Mission Critical,Windows Server 2022
+AST-0081,sal-rhel-081.corp.local,Sales_Ops,Tier 2 - Internal Ops,RHEL 9
+AST-0082,exe-rhel-082.corp.local,Executive,Tier 2 - Internal Ops,RHEL 9
+AST-0083,exe-windows-083.corp.local,Executive,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0084,eng-ubuntu-084.corp.local,Engineering,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0085,eng-windows-085.corp.local,Engineering,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0086,hr-windows-086.corp.local,HR,Tier 3 - Dev/Test,Windows Server 2022
+AST-0087,fin-windows-087.corp.local,Finance,Tier 2 - Internal Ops,Windows Server 2022
+AST-0088,fin-windows-088.corp.local,Finance,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0089,fin-windows-089.corp.local,Finance,Tier 1 - Mission Critical,Windows Server 2022
+AST-0090,sal-ubuntu-090.corp.local,Sales_Ops,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0091,eng-windows-091.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0092,exe-windows-092.corp.local,Executive,Tier 2 - Internal Ops,Windows Server 2022
+AST-0093,it_-windows-093.corp.local,IT_Infra,Tier 3 - Dev/Test,Windows Server 2022
+AST-0094,sal-windows-094.corp.local,Sales_Ops,Tier 1 - Mission Critical,Windows Server 2022
+AST-0095,sal-ubuntu-095.corp.local,Sales_Ops,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0096,eng-windows-096.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0097,eng-windows-097.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0098,hr-windows-098.corp.local,HR,Tier 2 - Internal Ops,Windows Server 2022
+AST-0099,fin-windows-099.corp.local,Finance,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0100,fin-ubuntu-100.corp.local,Finance,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0101,exe-macos-101.corp.local,Executive,Tier 1 - Mission Critical,macOS Sequoia
+AST-0102,exe-windows-102.corp.local,Executive,Tier 1 - Mission Critical,Windows Server 2022
+AST-0103,fin-ubuntu-103.corp.local,Finance,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0104,hr-rhel-104.corp.local,HR,Tier 3 - Dev/Test,RHEL 9
+AST-0105,exe-windows-105.corp.local,Executive,Tier 1 - Mission Critical,Windows Server 2022
+AST-0106,eng-windows-106.corp.local,Engineering,Tier 3 - Dev/Test,Windows Server 2022
+AST-0107,sal-ubuntu-107.corp.local,Sales_Ops,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0108,it_-rhel-108.corp.local,IT_Infra,Tier 1 - Mission Critical,RHEL 9
+AST-0109,sal-rhel-109.corp.local,Sales_Ops,Tier 2 - Internal Ops,RHEL 9
+AST-0110,it_-ubuntu-110.corp.local,IT_Infra,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0111,sal-macos-111.corp.local,Sales_Ops,Tier 3 - Dev/Test,macOS Sequoia
+AST-0112,fin-macos-112.corp.local,Finance,Tier 2 - Internal Ops,macOS Sequoia
+AST-0113,it_-windows-113.corp.local,IT_Infra,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0114,eng-macos-114.corp.local,Engineering,Tier 3 - Dev/Test,macOS Sequoia
+AST-0115,sal-ubuntu-115.corp.local,Sales_Ops,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0116,eng-windows-116.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0117,eng-ubuntu-117.corp.local,Engineering,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0118,eng-macos-118.corp.local,Engineering,Tier 2 - Internal Ops,macOS Sequoia
+AST-0119,eng-windows-119.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0120,eng-rhel-120.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0121,eng-windows-121.corp.local,Engineering,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0122,eng-windows-122.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0123,fin-windows-123.corp.local,Finance,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0124,eng-windows-124.corp.local,Engineering,Tier 3 - Dev/Test,Windows Server 2022
+AST-0125,eng-windows-125.corp.local,Engineering,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0126,fin-rhel-126.corp.local,Finance,Tier 1 - Mission Critical,RHEL 9
+AST-0127,sal-ubuntu-127.corp.local,Sales_Ops,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0128,eng-windows-128.corp.local,Engineering,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0129,exe-windows-129.corp.local,Executive,Tier 1 - Mission Critical,Windows 11 Enterprise
+AST-0130,hr-windows-130.corp.local,HR,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0131,eng-ubuntu-131.corp.local,Engineering,Tier 2 - Internal Ops,Ubuntu 24.04 LTS
+AST-0132,eng-macos-132.corp.local,Engineering,Tier 2 - Internal Ops,macOS Sequoia
+AST-0133,it_-windows-133.corp.local,IT_Infra,Tier 2 - Internal Ops,Windows 11 Enterprise
+AST-0134,eng-windows-134.corp.local,Engineering,Tier 3 - Dev/Test,Windows 11 Enterprise
+AST-0135,eng-rhel-135.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0136,exe-macos-136.corp.local,Executive,Tier 1 - Mission Critical,macOS Sequoia
+AST-0137,eng-macos-137.corp.local,Engineering,Tier 2 - Internal Ops,macOS Sequoia
+AST-0138,it_-windows-138.corp.local,IT_Infra,Tier 3 - Dev/Test,Windows Server 2022
+AST-0139,eng-rhel-139.corp.local,Engineering,Tier 2 - Internal Ops,RHEL 9
+AST-0140,eng-ubuntu-140.corp.local,Engineering,Tier 3 - Dev/Test,Ubuntu 24.04 LTS
+AST-0141,it_-ubuntu-141.corp.local,IT_Infra,Tier 1 - Mission Critical,Ubuntu 24.04 LTS
+AST-0142,fin-macos-142.corp.local,Finance,Tier 1 - Mission Critical,macOS Sequoia
+AST-0143,exe-rhel-143.corp.local,Executive,Tier 2 - Internal Ops,RHEL 9
+AST-0144,eng-macos-144.corp.local,Engineering,Tier 2 - Internal Ops,macOS Sequoia
+AST-0145,eng-windows-145.corp.local,Engineering,Tier 1 - Mission Critical,Windows Server 2022
+AST-0146,sal-windows-146.corp.local,Sales_Ops,Tier 3 - Dev/Test,Windows Server 2022
+AST-0147,it_-rhel-147.corp.local,IT_Infra,Tier 1 - Mission Critical,RHEL 9
+AST-0148,hr-windows-148.corp.local,HR,Tier 2 - Internal Ops,Windows Server 2022
+AST-0149,hr-rhel-149.corp.local,HR,Tier 3 - Dev/Test,RHEL 9
+AST-0150,sal-macos-150.corp.local,Sales_Ops,Tier 2 - Internal Ops,macOS Sequoia
