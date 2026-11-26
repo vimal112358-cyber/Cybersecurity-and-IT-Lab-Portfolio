@@ -1,6 +1,6 @@
-# Cybersecurity & IT Enterprise Support Portfolio
+# Cybersecurity, Data Analytics & IT Enterprise Support Portfolio
 
-Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, enterprise IT configurations, and virtual simulations.
+Welcome! This repository serves as a growing portfolio of my hands-on technical labs, security automation scripts, data analytics case studies, enterprise IT configurations, and virtual simulations.
 
 ---
 
@@ -8,6 +8,9 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 - **Google Cybersecurity Professional Certificate** — Tech Valley / Innovista Scholarship
 - **Google IT Support Professional Certificate** — Tech Valley / Innovista Scholarship
+- **Google IT Automation with Python** — Coursera
+- **Google AI Essentials** — Coursera
+- **Google Data Analytics Professional Certificate** — Coursera
 - **Commonwealth Bank of Australia (CBA) Cyber Simulation** — Forage
 
 ---
@@ -33,12 +36,15 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 - **[Commonwealth Bank Incident Response Simulation](./CBA-Incident-Response-Simulation):** Simulated a live multi-stage threat scenario involving spear-phishing, credential harvesting, and malware file-share encryption, establishing containment and recovery protocols.
 - **[Commonwealth Bank Web Application Penetration Testing](./reports/CBA_Penetration_Testing_Executive_Report.pdf):** Completed 11 targeted browser-based security labs covering XSS, SQL Injection, Path Traversal, and Information Disclosure, accompanied by an executive penetration testing report.
 
+### 6. Data Analytics & SOC Operations Capstone
+- **[SOC Alert Triage & SLA Bottleneck Analysis](./soc-alert-triage-capstone/):** End-to-end Google Data Analytics Track B capstone analyzing 90 days of SOC alert telemetry across `alerts`, `assets`, and `analysts` tables using Python (`pandas`, `matplotlib`, `sqlite3`) and SQL—uncovering a **64.7%** false-positive rate (driven by `RULE-06` at **94.1%** and `RULE-02` at **86.3%**) and a **43.6%** SLA breach rate (**62.2%** on Night-shift `Tier 1 - Mission Critical` assets).
+
 ---
 
 ## 🛠️ Tech Stack & Tools Mastered
 
-- **Operating Systems:** Linux (Ubuntu/Debian CLI)
-- **Development & Analytics:** Python 3 (Jupyter Notebooks), SQL
+- **Operating Systems:** Linux (Ubuntu/Debian CLI), Windows
+- **Development & Data Analytics:** Python 3 (`pandas`, `matplotlib`, `sqlite3`, Jupyter Notebooks), SQL, Microsoft Excel
 - **Version Control & Collaboration:** Git, GitHub, Pull Request Workflows
 - **Security Frameworks:** NIST Cybersecurity Framework (CSF)
-- **Defensive & Operations Concepts:** SIEM Logging (Splunk), Network Traffic Analysis, Access Control Lists (ACLs), Root-Cause Troubleshooting
+- **Defensive & Operations Concepts:** SIEM Logging (Splunk), Alert Triage & SLA Analysis, Network Traffic Analysis, Access Control Lists (ACLs), Root-Cause Troubleshooting
