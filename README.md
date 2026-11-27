@@ -12,6 +12,7 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 - **Google IT Support Professional Certificate** — Tech Valley / Innovista Scholarship
 - **Google IT Automation with Python Professional Certificate** — Coursera
 - **Google Data Analytics Professional Certificate** — Coursera
+- **Google AI Professional Certificate** — Coursera
 - **Google AI Essentials** — Coursera
 - **Commonwealth Bank of Australia (CBA) Cyber Simulation** — Forage
 
@@ -47,6 +48,7 @@ Welcome! This repository serves as a growing portfolio of my hands-on technical 
 
 - **Operating Systems:** Linux (Ubuntu/Debian CLI), Windows
 - **Development & Data Analytics:** Python 3 (`pandas`, `matplotlib`, `sqlite3`, Jupyter Notebooks), SQL, Microsoft Excel
+- **Applied AI & Productivity:** Structured Prompt Engineering, AI-Assisted Data Analysis & Workflow Automation, Responsible AI Governance
 - **Version Control & Collaboration:** Git, GitHub, Pull Request Workflows
 - **Security Frameworks:** NIST Cybersecurity Framework (CSF)
 - **Defensive & Operations Concepts:** SIEM Logging (Splunk), Alert Triage & SLA Analysis, Network Traffic Analysis, Access Control Lists (ACLs), Root-Cause Troubleshooting
